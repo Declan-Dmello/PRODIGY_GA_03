@@ -6,7 +6,6 @@ import random
 """with open("harry_potter.txt", "r", encoding="utf-8") as file:
     text = file.read()"""
 
-#text = "Heal the world make it a better place for u and for me and the entire human race, there are people dying and they cant live enough, so make it a better place for you and for me . The silent patient is a great bok written my Alex michealades and he is bascially an author who got his degree from the university of goa , the school of Computer science and it , pokemon master is a series where ash ketchum the pokemon master is a new world champion after defeating garry oak who is actually an insane pokemon master"
 
 text = "The sun was setting behind the mountains, casting a golden glow over the valley. Birds chirped as the cool evening breeze rustled through the trees. A small stream meandered through the landscape, its waters reflecting the fading light. In the distance, a traveler walked along a winding path, his footsteps echoing softly. He had been on the road for days, searching for a place to rest. The village was not far now, and the warm lights of the cottages flickered like stars in the twilight. He quickened his pace, eager to find shelter before nightfall."
 
